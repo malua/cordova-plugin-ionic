@@ -72,7 +72,7 @@
             </feature>
         </config-file>
 
-        <config-file target="res/values/strings.xml" parent="/resources">
+        <config-file target="app/src/main/res/values/strings.xml" parent="/resources">
             <string name="ionic_app_id">$APP_ID</string>
             <string name="ionic_debug">$WARN_DEBUG</string>
             <string name="ionic_channel_name">$CHANNEL_NAME</string>
